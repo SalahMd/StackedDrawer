@@ -1,0 +1,22 @@
+name: stacked_drawer
+description: "A customizable stacked animated drawer for Flutter that allows smooth transitions with scaling and offset animations."
+version: 0.0.1
+homepage: https://github.com/SalahMd/StackedDrawer
+repository: https://github.com/SalahMd/StackedDrawer
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+
